@@ -2,11 +2,11 @@
 
 ###EXERCISE 1
 
-# function file_count(){
-#	PWD=$(pwd)
-#	ls $PWD | wc -l
-# }
-# file_count
+  file_count(){
+	PWD=$(pwd)
+	ls $PWD | wc -l
+ }
+ file_count
 
 #########################################
 ##EXERCISE 2
