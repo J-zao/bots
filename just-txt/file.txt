@@ -1,1 +1,2 @@
 This is my first git bash file. i am going to be a great devop
+This course is getting interesting
